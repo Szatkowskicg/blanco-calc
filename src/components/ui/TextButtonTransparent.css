@@ -1,0 +1,20 @@
+.text-button-transparent {
+    align-items: center;
+    justify-content: center;
+    background-color: transparent;
+    border: .10rem solid #abb1b8;
+    color: #abb1b8;
+    border-radius: .25rem;
+    cursor: pointer;
+    padding: .25rem .5rem;
+    line-height: 1.5rem;
+    font-size: .8rem;
+    min-width: 25%;
+    transition-duration: 0.4s;
+  }
+  
+  .text-button-transparent:hover {
+    color: hsl(0, 0%, 100%);
+    border-color: #6C7A89;
+    background-color: #6C7A89;
+  }

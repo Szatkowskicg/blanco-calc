@@ -1,0 +1,14 @@
+.add-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    color: #abb1b8;
+    font-size: 20px;
+  }
+  
+  .add-button:hover {
+    color: #6C7A89;
+  }

@@ -1,0 +1,28 @@
+/* New styles for sorting arrows */
+.sortable-header {
+  cursor: pointer;
+  align-items: start;
+}
+
+.sort-arrow {
+  margin-left: 5px;
+  display: none;
+}
+
+.sort-arrow.ascending::before {
+  content: '▲';
+}
+
+.sort-arrow.descending::before {
+  content: '▼';
+}
+
+.sortable-header.active .sort-arrow {
+  display: inline;
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

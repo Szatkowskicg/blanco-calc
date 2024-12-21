@@ -1,0 +1,15 @@
+.reset-sort-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    color: #abb1b8;
+    font-size: 1rem;
+    transition-duration: 0.4s;
+}
+
+.reset-sort-button:hover {
+    color: #6C7A89;
+}

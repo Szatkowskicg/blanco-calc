@@ -1,0 +1,751 @@
+[
+      {
+        "id": 1,
+        "client": "Titanum",
+        "quarry": "Leszna",
+        "destination": "Odbior wlasny",
+        "transport": 0,
+        "materials": [
+            {
+                "id": 1,
+                "name": "2-8",
+                "price": 73
+            },
+            {
+                "id": 2,
+                "name": "8-16",
+                "price": 61
+            },
+            {
+                "id": 3,
+                "name": "16-31",
+                "price": 61
+            },
+            {
+                "id": 4,
+                "name": "0-31",
+                "price": 48
+            },
+            {
+                "id": 5,
+                "name": "0-63",
+                "price": 48
+            },
+            {
+                "id": 6,
+                "name": "Tluczen",
+                "price": 57
+            },
+            {
+                "id": 7,
+                "name": "0-4",
+                "price": 17
+            },
+            {
+                "id": 8,
+                "name": "63-180",
+                "price": 65
+            },
+            {
+                "id": 9,
+                "name": "120-350",
+                "price": 65
+            },
+            {
+                "id": 10,
+                "name": "350-900",
+                "price": 65
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "client": "Sypke",
+        "quarry": "Leszna",
+        "destination": "Orlova",
+        "transport": 22,
+        "materials": [
+            {
+                "id": 11,
+                "name": "2-8",
+                "price": 96
+            },
+            {
+                "id": 12,
+                "name": "8-16",
+                "price": 83
+            },
+            {
+                "id": 13,
+                "name": "16-31",
+                "price": 83
+            },
+            {
+                "id": 14,
+                "name": "0-31",
+                "price": 71
+            },
+            {
+                "id": 15,
+                "name": "0-63",
+                "price": 71
+            },
+            {
+                "id": 16,
+                "name": "Tluczen",
+                "price": 79
+            },
+            {
+                "id": 17,
+                "name": "0-4",
+                "price": 41
+            },
+            {
+                "id": 18,
+                "name": "63-180",
+                "price": 87
+            },
+            {
+                "id": 19,
+                "name": "120-350",
+                "price": 87
+            },
+            {
+                "id": 20,
+                "name": "350-900",
+                "price": 87
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "client": "Sypke",
+        "quarry": "Leszna",
+        "destination": "Karvina, Żermanice",
+        "transport": 18,
+        "materials": [
+            {
+                "id": 21,
+                "name": "2-8",
+                "price": 92
+            },
+            {
+                "id": 22,
+                "name": "8-16",
+                "price": 79
+            },
+            {
+                "id": 23,
+                "name": "16-31",
+                "price": 79
+            },
+            {
+                "id": 24,
+                "name": "0-31",
+                "price": 67
+            },
+            {
+                "id": 25,
+                "name": "0-63",
+                "price": 67
+            },
+            {
+                "id": 26,
+                "name": "Tluczen",
+                "price": 75
+            },
+            {
+                "id": 27,
+                "name": "0-4",
+                "price": 37
+            },
+            {
+                "id": 28,
+                "name": "63-180",
+                "price": 83
+            },
+            {
+                "id": 29,
+                "name": "120-350",
+                "price": 83
+            },
+            {
+                "id": 30,
+                "name": "350-900",
+                "price": 83
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "client": "Petrokamen",
+        "quarry": "Leszna",
+        "destination": "Cieszyn, Dolni Zukov, Mistrovice",
+        "transport": 14,
+        "materials": [
+            {
+                "id": 31,
+                "name": "2-8",
+                "price": 88
+            },
+            {
+                "id": 32,
+                "name": "8-16",
+                "price": 74
+            },
+            {
+                "id": 33,
+                "name": "16-31",
+                "price": 74
+            },
+            {
+                "id": 34,
+                "name": "0-31",
+                "price": 62
+            },
+            {
+                "id": 35,
+                "name": "0-63",
+                "price": 62
+            },
+            {
+                "id": 36,
+                "name": "Tluczen",
+                "price": 71
+            },
+            {
+                "id": 37,
+                "name": "0-4",
+                "price": 31
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "client": "Petrokamen",
+        "quarry": "Leszna",
+        "destination": "Trzyniec",
+        "transport": 15,
+        "materials": [
+            {
+                "id": 38,
+                "name": "2-8",
+                "price": 89
+            },
+            {
+                "id": 39,
+                "name": "8-16",
+                "price": 76
+            },
+            {
+                "id": 40,
+                "name": "16-31",
+                "price": 76
+            },
+            {
+                "id": 41,
+                "name": "0-4",
+                "price": 34
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "client": "Petrokamen",
+        "quarry": "Leszna",
+        "destination": "Doubrava, Trinec, Trzanovice, Chotebuz, Oldrzychowice",
+        "transport": 17,
+        "materials": [
+            {
+                "id": 42,
+                "name": "2-8",
+                "price": 91
+            },
+            {
+                "id": 43,
+                "name": "8-16",
+                "price": 78
+            },
+            {
+                "id": 44,
+                "name": "16-31",
+                "price": 78
+            },
+            {
+                "id": 45,
+                "name": "0-31",
+                "price": 65
+            },
+            {
+                "id": 46,
+                "name": "0-63",
+                "price": 65
+            },
+            {
+                "id": 47,
+                "name": "Tluczen",
+                "price": 74
+            },
+            {
+                "id": 48,
+                "name": "0-4",
+                "price": 36
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "client": "Petrokamen",
+        "quarry": "Leszna",
+        "destination": "Stonava, Karvina - Petrovice, Vojkovice, Ropice, Striteż, Detmarovice, Żermanice, Hnojnik, Reka, Karvina, Vendrynie, Albrechtice, Horni Sucha, Karvina Darkov, Dolni Domaslovice, Nydek",
+        "transport": 18,
+        "materials": [
+            {
+                "id": 49,
+                "name": "2-8",
+                "price": 92
+            },
+            {
+                "id": 50,
+                "name": "8-16",
+                "price": 79
+            },
+            {
+                "id": 51,
+                "name": "16-31",
+                "price": 79
+            },
+            {
+                "id": 52,
+                "name": "0-31",
+                "price": 67
+            },
+            {
+                "id": 53,
+                "name": "0-63",
+                "price": 67
+            },
+            {
+                "id": 54,
+                "name": "Tluczen",
+                "price": 75
+            },
+            {
+                "id": 55,
+                "name": "0-4",
+                "price": 37
+            },
+            {
+                "id": 56,
+                "name": "63-180",
+                "price": 83
+            },
+            {
+                "id": 57,
+                "name": "120-350",
+                "price": 83
+            },
+            {
+                "id": 58,
+                "name": "350-900",
+                "price": 83
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "client": "Petrokamen",
+        "quarry": "Leszna",
+        "destination": "Havirov, Sobesovice, Lucyny",
+        "transport": 19,
+        "materials": [
+            {
+                "id": 59,
+                "name": "2-8",
+                "price": 93
+            },
+            {
+                "id": 60,
+                "name": "8-16",
+                "price": 80
+            },
+            {
+                "id": 61,
+                "name": "16-31",
+                "price": 80
+            },
+            {
+                "id": 62,
+                "name": "0-31",
+                "price": 68
+            },
+            {
+                "id": 63,
+                "name": "0-63",
+                "price": 68
+            },
+            {
+                "id": 64,
+                "name": "Tluczen",
+                "price": 76
+            },
+            {
+                "id": 65,
+                "name": "0-4",
+                "price": 38
+            },
+            {
+                "id": 66,
+                "name": "63-180",
+                "price": 84
+            },
+            {
+                "id": 67,
+                "name": "120-350",
+                "price": 84
+            },
+            {
+                "id": 68,
+                "name": "350-900",
+                "price": 84
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "client": "Petrokamen",
+        "quarry": "Leszna",
+        "destination": "Dolni Lutynie, Bystrice, Jablunkov - Navsi, Nosovice",
+        "transport": 20,
+        "materials": [
+            {
+                "id": 69,
+                "name": "2-8",
+                "price": 94
+            },
+            {
+                "id": 70,
+                "name": "8-16",
+                "price": 81
+            },
+            {
+                "id": 71,
+                "name": "16-31",
+                "price": 81
+            },
+            {
+                "id": 72,
+                "name": "0-31",
+                "price": 69
+            },
+            {
+                "id": 73,
+                "name": "0-63",
+                "price": 69
+            },
+            {
+                "id": 74,
+                "name": "Tluczen",
+                "price": 77
+            },
+            {
+                "id": 75,
+                "name": "0-4",
+                "price": 39
+            },
+            {
+                "id": 76,
+                "name": "63-180",
+                "price": 85
+            },
+            {
+                "id": 77,
+                "name": "120-350",
+                "price": 85
+            },
+            {
+                "id": 78,
+                "name": "350-900",
+                "price": 85
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "client": "Petrokamen",
+        "quarry": "Leszna",
+        "destination": "Prażmo, Jablunkov, Sedliste",
+        "transport": 21,
+        "materials": [
+            {
+                "id": 79,
+                "name": "2-8",
+                "price": 95
+            },
+            {
+                "id": 80,
+                "name": "8-16",
+                "price": 82
+            },
+            {
+                "id": 81,
+                "name": "16-31",
+                "price": 82
+            },
+            {
+                "id": 82,
+                "name": "0-31",
+                "price": 70
+            },
+            {
+                "id": 83,
+                "name": "0-63",
+                "price": 70
+            },
+            {
+                "id": 84,
+                "name": "Tluczen",
+                "price": 78
+            },
+            {
+                "id": 85,
+                "name": "63-180",
+                "price": 86
+            },
+            {
+                "id": 86,
+                "name": "120-350",
+                "price": 86
+            },
+            {
+                "id": 87,
+                "name": "350-900",
+                "price": 86
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "client": "Petrokamen",
+        "quarry": "Leszna",
+        "destination": "Frydek Mistek, Orlova, Dolni Luota, Dolni Lotna, Sviadnov, Petrzvald u Karvine, Kosariska, Vysni Lhota",
+        "transport": 22,
+        "materials": [
+            {
+                "id": 88,
+                "name": "2-8",
+                "price": 96
+            },
+            {
+                "id": 89,
+                "name": "8-16",
+                "price": 83
+            },
+            {
+                "id": 90,
+                "name": "16-31",
+                "price": 83
+            },
+            {
+                "id": 91,
+                "name": "0-31",
+                "price": 71
+            },
+            {
+                "id": 92,
+                "name": "0-63",
+                "price": 71
+            },
+            {
+                "id": 93,
+                "name": "Tluczen",
+                "price": 79
+            },
+            {
+                "id": 94,
+                "name": "0-4",
+                "price": 41
+            },
+            {
+                "id": 95,
+                "name": "63-180",
+                "price": 87
+            },
+            {
+                "id": 96,
+                "name": "120-350",
+                "price": 87
+            },
+            {
+                "id": 97,
+                "name": "350-900",
+                "price": 87
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "client": "Petrokamen",
+        "quarry": "Leszna",
+        "destination": "Bohumin, Palkovic",
+        "transport": 23,
+        "materials": [
+            {"id": 98,"name": "2-8","price": 97},
+            {"id": 99,"name": "8-16","price": 84},
+            {"id": 100,"name": "16-31","price": 84},
+            {
+                "id": 101,
+                "name": "0-31",
+                "price": 72
+            },
+            {
+                "id": 102,
+                "name": "0-63",
+                "price": 72
+            },
+            {
+                "id": 103,
+                "name": "Tluczen",
+                "price": 80
+            },
+            {
+                "id": 104,
+                "name": "0-4",
+                "price": 42
+            },
+            {
+                "id": 105,
+                "name": "63-180",
+                "price": 88
+            },
+            {
+                "id": 106,
+                "name": "120-350",
+                "price": 88
+            },
+            {
+                "id": 107,
+                "name": "350-900",
+                "price": 88
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "client": "Petrokamen",
+        "quarry": "Leszna",
+        "destination": "Milkov, Ostravice",
+        "transport": 24,
+        "materials": [
+            {
+                "id": 108,
+                "name": "2-8",
+                "price": 98
+            },
+            {
+                "id": 109,
+                "name": "8-16",
+                "price": 85
+            },
+            {
+                "id": 110,
+                "name": "16-31",
+                "price": 85
+            },
+            {
+                "id": 111,
+                "name": "0-31",
+                "price": 73
+            },
+            {
+                "id": 112,
+                "name": "0-63",
+                "price": 73
+            },
+            {
+                "id": 113,
+                "name": "Tluczen",
+                "price": 81
+            },
+            {
+                "id": 114,
+                "name": "0-4",
+                "price": 43
+            },
+            {
+                "id": 115,
+                "name": "63-180",
+                "price": 89
+            },
+            {
+                "id": 116,
+                "name": "120-350",
+                "price": 89
+            },
+            {
+                "id": 117,
+                "name": "350-900",
+                "price": 89
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "client": "Petrokamen",
+        "quarry": "Leszna",
+        "destination": "Staric, Metylkovice, Paskov, Celadna, Buskoviec, Ostrava",
+        "transport": 25,
+        "materials": [
+            {
+                "id": 118,
+                "name": "2-8",
+                "price": 99
+            },
+            {
+                "id": 119,
+                "name": "8-16",
+                "price": 86
+            },
+            {
+                "id": 120,
+                "name": "16-31",
+                "price": 86
+            },
+            {
+                "id": 121,
+                "name": "0-31",
+                "price": 74
+            },
+            {
+                "id": 122,
+                "name": "0-63",
+                "price": 74
+            },
+            {
+                "id": 123,
+                "name": "Tluczen",
+                "price": 82
+            },
+            {
+                "id": 124,
+                "name": "0-4",
+                "price": 44
+            },
+            {
+                "id": 125,
+                "name": "63-180",
+                "price": 90
+            },
+            {
+                "id": 126,
+                "name": "120-350",
+                "price": 90
+            },
+            {
+                "id": 127,
+                "name": "350-900",
+                "price": 90
+            }
+        ]
+    }
+]

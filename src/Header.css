@@ -1,0 +1,75 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  overflow: hidden;
+  background-color: rgb(26, 26, 26);
+  padding: 0;
+  margin: 0;
+}
+
+.header--left {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+}
+
+.header--right {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.logo {
+  color: hsl(0, 0%, 85%);
+  font-weight: 600;
+  text-transform: uppercase;
+  padding: 30px 20px;
+  text-decoration: none;
+  font-size: .9rem;
+  line-height: 1.2rem;
+}
+
+/* Style the header links */
+.link {
+  color: hsl(0, 0%, 85%);
+  font-weight: 600;
+  text-transform: uppercase;
+  padding: 30px 20px;
+  text-decoration: none;
+  font-size: .9rem;
+  line-height: 1.2rem;
+}
+  
+/* Change the background color on mouse-over */
+.link:hover {
+  /* background-color: rgb(224, 90, 29); */
+  /* background-color: rgba(127, 76, 230, 0.6); */
+  color: rgb(224, 90, 29);
+}
+  
+/* Style the active/current link*/
+.link.active {
+  /* background-color: rgb(224, 90, 29); */
+  /* background-color: rgba(127, 76, 230, 0.6); */
+  color: rgb(224, 90, 29);
+}
+  
+/* Add media queries for responsiveness - when the screen is 500px wide or less, stack the links on top of each other */
+@media screen and (max-width: 766px) {
+  .header {
+    flex-direction: column;
+  }
+  .header--right {
+    flex-direction: column;
+  }
+
+  .header--left {
+    justify-content: center;
+  }
+
+  .link {
+    text-align: center;
+    padding: 15px 10px;
+    width: 100%;
+  }
+}

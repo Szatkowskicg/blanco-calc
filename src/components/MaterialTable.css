@@ -1,0 +1,24 @@
+.material-table-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 3rem;
+}
+
+.material-table {
+    width: 100%;
+}
+
+.material-table-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.material-table-data {
+    display: flex;
+    justify-content: space-between;
+}
+
+.details-table {
+    background-color: rgba(0,0,0,0.1);
+}
